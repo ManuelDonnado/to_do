@@ -1,0 +1,17 @@
+.addTarea {
+    border: none;
+    background-color: transparent;
+    background: none;
+    height: 30px;
+    width: 40px;
+    font-family: "Times New Roman", Times, serif;
+  }
+  
+  .texto {
+    width: 200px;
+    height: 30px;
+    background-color: #bbeedd;
+    border-radius: 10px;
+    border: none;
+  }
+  

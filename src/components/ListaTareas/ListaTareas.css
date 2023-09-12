@@ -1,0 +1,21 @@
+.container {
+    background-color: #5ceff1;
+    display: flex;
+    justify-content: space-between;
+  }
+  .visible {
+    border: none;
+    background-color: transparent;
+    background: none;
+    height: 30px;
+    width: 40px;
+  }
+  
+  .delete {
+    border: none;
+    background-color: transparent;
+    background: none;
+    height: 30px;
+    width: 40px;
+  }
+  
